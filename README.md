@@ -16,4 +16,4 @@ References
 
 [1] [Some of my favorite Recsys resources and links](https://amatriain.net/blog/recsys-resources/#Intro)
 
-[2] [Linkedin KDD 2020]https://www.youtube.com/playlist?list=PL1A6BExORJgT3PiPXQJKuI-5d6B1JDaV4
+[2] [Linkedin KDD 2020](https://www.youtube.com/playlist?list=PL1A6BExORJgT3PiPXQJKuI-5d6B1JDaV4)
