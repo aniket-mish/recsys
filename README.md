@@ -1,18 +1,36 @@
 # binge
 
-I mostly work on recsys at my work. There are a lot of things that need to be understood while working with these systems. In this repo, I'm going to study and build the SoTA recsys methods.
+I have mostly worked on RecSys in my career including search and information retrieval systems. There are a lot of things that need to be understood while working with these systems. In this repo, we will look into these SoTA RecSys.
 
 We will be exploring various recommender system methods
 
 1. Collaborative filtering algorithms
-2. Content-based filtering Recommender systems
-3. Sequence Aware Recommender systems
-4. Session-Based Recommender systems
-5. Knowledge Graph-based Recommender Systems
+2. Content-based filtering recommender systems
+3. Sequence-aware recommender systems
+4. Session-based recommender systems
+5. Knowledge graph-based recommender systems
 
 We will use the [movielens](https://movielens.org]) dataset which is the defacto dataset used for recommender systems research.
 
-References
+## Dataset
+
+## Intro to RecSys
+
+## RecBole
+
+## Collaborative Filtering
+
+## Content-based Filtering
+
+## Sequence aware RecSys
+
+## Session-based RecSys
+
+## Knowledge graph-based RecSys
+
+## Summary
+
+## References
 
 [1] [Some of my favorite Recsys resources and links](https://amatriain.net/blog/recsys-resources/#Intro)
 
