@@ -10,9 +10,9 @@ We will be exploring various recommender system methods
 4. Session-based recommender systems
 5. Knowledge graph-based recommender systems
 
-We will use the [movielens](https://movielens.org]) dataset which is the defacto dataset used for recommender systems research.
-
 ## Dataset
+
+We'll use the [movielens](https://movielens.org]) dataset which is the defacto dataset used for recommender systems research. The dataset has 100,000 movie ratings, 943 users, and 1682 movies. There's a larger version of the dataset with 20M ratings.
 
 ## Intro to RecSys
 
