@@ -1,4 +1,4 @@
-# binge
+# recsys
 
 I have mostly worked on RecSys in my career including search and information retrieval systems. There are a lot of things that need to be understood while working with these systems. In this repo, we will look into these SoTA RecSys.
 
